@@ -1,0 +1,10 @@
+.todo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    width: 100%;
+    background-color: coral;
+    border: 2px solid white;
+}
